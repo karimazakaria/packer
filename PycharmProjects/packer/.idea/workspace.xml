@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb0b072f-6d16-4caf-878e-6cfe66486870" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/changeuser.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/disable_autologin.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/import_vm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/import_vm_srv1414.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/preventuserchangepassword.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/rearm.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/setup.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/sysprep.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/timesync.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/ultradefrag.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows-2016/autounattend.xml_old1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows-2016/autounattend2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows-2016_new/autounattend.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows-2016_new/autounattend.xml_old1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows-2016_new/autounattend2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows2016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows2016_test_srv1410.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows2016_test_srv1414.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows2016_test_srv1414_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows2016old.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows2019.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows2019old.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows-2016-vagrant/windows-2016/autounattend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows-2016/autounattend.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows-2016-vagrant/windows-2019/autounattend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/windows-2016-vagrant/windows-2019/autounattend.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/windows-2016-vagrant" />
+  </component>
+  <component name="ProjectId" id="1TsG3em0NCpg8l43N0HatDG0dtr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/windows-2016-vagrant" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/windows-2016-vagrant" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/windows-2016-vagrant" />
+      <recent name="$PROJECT_DIR$/windows-2016-vagrant/windows-2016" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb0b072f-6d16-4caf-878e-6cfe66486870" name="Default Changelist" comment="" />
+      <created>1574241191495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574241191495</updated>
+      <workItem from="1574241196126" duration="12832000" />
+      <workItem from="1574766682877" duration="8368000" />
+      <workItem from="1574843274380" duration="1041000" />
+      <workItem from="1574844892777" duration="17730000" />
+      <workItem from="1575016193535" duration="13893000" />
+      <workItem from="1575282575269" duration="9171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="148" key="#Deployment" timestamp="1574865525110">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1138" y="127" key="#Deployment/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1574851638627" />
+    <state x="403" y="148" key="#Deployment/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1574865525110" />
+    <state x="-1032" y="272" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1574930417606">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state x="-1032" y="272" key="#com.intellij.fileTypes.FileTypeChooser/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1574930417606" />
+    <state x="210" y="173" width="1239" height="677" key="DiffContextDialog" timestamp="1575020428697">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="210" y="173" width="1239" height="677" key="DiffContextDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1575020428697" />
+    <state x="-1338" y="123" width="1200" height="677" key="DirDiffDialog" timestamp="1575379437270">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state x="136" y="123" width="1600" height="835" key="DirDiffDialog/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1575039857215" />
+    <state x="-1338" y="123" width="1200" height="679" key="DirDiffDialog/-1440.22.1440.878/0.22.1920.1058@-1440.22.1440.878" timestamp="1574959399516" />
+    <state x="136" y="143" width="1600" height="817" key="DirDiffDialog/-1440.22.1440.878/0.22.1920.1058@0.22.1920.1058" timestamp="1574872425017" />
+    <state x="-1338" y="123" width="1200" height="677" key="DirDiffDialog/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1575379437270" />
+    <state x="136" y="143" width="1600" height="817" key="DirDiffDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1575283541135" />
+    <state x="0" y="23" width="1440" height="817" key="DirDiffDialog/0.22.1440.878@0.22.1440.878" timestamp="1575355884904" />
+    <state x="0" y="24" width="1440" height="817" key="DirDiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1575211869808" />
+    <state x="-1229" y="100" key="SettingsEditor" timestamp="1574773870930">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state x="-1229" y="100" key="SettingsEditor/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1574773870930" />
+    <state x="102" y="122" width="1200" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575355297471">
+      <screen x="0" y="22" width="1440" height="878" />
+    </state>
+    <state x="-1338" y="122" width="1200" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1440.22.1440.878/0.22.1920.1058@-1440.22.1440.878" timestamp="1574960375022" />
+    <state x="136" y="143" width="1600" height="817" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1440.22.1440.878/0.22.1920.1058@0.22.1920.1058" timestamp="1574873785226" />
+    <state x="-1338" y="123" width="1200" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1575018351500" />
+    <state x="102" y="122" width="1200" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.22.1440.878@0.22.1440.878" timestamp="1575355297471" />
+    <state x="-1340" y="123" width="1239" height="677" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1575017116231">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state x="-1340" y="123" width="1239" height="677" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1575017116231" />
+  </component>
+</project>
